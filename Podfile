@@ -1,0 +1,1 @@
+pod 'LibraryDemo', :path => '../Library/LibraryDemo-1.0.0'

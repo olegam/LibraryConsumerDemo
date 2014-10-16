@@ -1,0 +1,14 @@
+PODS:
+  - LibraryDemo (1.0.0)
+
+DEPENDENCIES:
+  - LibraryDemo (from `../Library/LibraryDemo-1.0.0`)
+
+EXTERNAL SOURCES:
+  LibraryDemo:
+    :path: ../Library/LibraryDemo-1.0.0
+
+SPEC CHECKSUMS:
+  LibraryDemo: 7db2a239f931abbe825ff547dff54e7e9c35e671
+
+COCOAPODS: 0.34.2
